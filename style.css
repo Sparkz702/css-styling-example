@@ -1,0 +1,31 @@
+/* External CSS File - style.css */
+
+/* External CSS applied to h3 elements */
+h3 {
+    color: rgb(0, 255, 128);
+}
+
+/* Element selector for h4 elements */
+h4 {
+    font-size: 20px;
+    color: rgb(255, 0, 234);
+}
+
+/* Class selector for elements with class 'myclass' */
+.myclass {
+    color: rgb(92, 0, 128);
+    font-style: italic;
+}
+
+/* ID selector for element with id 'myid' */
+#myid {
+    color: rgb(159, 165, 42);
+    font-weight: bold;
+}
+
+/* Group selector for h5 and p elements */
+h5, p {
+    font-family: Arial, sans-serif;
+    color: rgb(128, 0, 107);
+    text-align: center
+}
